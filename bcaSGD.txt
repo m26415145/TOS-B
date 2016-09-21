@@ -1,7 +1,4 @@
-=`curl -s http://klikbca.com | grep SGD -A2 | cut -d">" -f2 | cut -d"<" -f1 | xargs | cut -d" " -f2`
-jual=`curl -s http://klikbca.com | grep SGD -A2 | cut -d">" -f2 | cut -d"<" -f1 | xargs | cut -d" " -f3`
-echo 'date' "|" $jual "|" $beli
-beli=`curl -s http://klikbca.com | grep SGD -A2 | cut -d">" -f2 | cut -d"<" -f1 | xargs | cut -d" " -f2`
-jual=`curl -s http://klikbca.com | grep SGD -A2 | cut -d">" -f2 | cut -d"<" -f1 | xargs | cut -d" " -f3`
-echo 'date' "|" $jual "|" $beli
-
+date | 9657.38 | 9637.38
+date | 9657.38 | 9637.38
+Wed Sep 21 23:09:53 WIB 2016 | 9657.38 | 9637.38
+Wed Sep 21 23:19:28 WIB 2016 | 9657.38 | 9637.38
