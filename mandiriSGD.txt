@@ -1,0 +1,6 @@
+beli='curl -s http://bankmandiri.co.id/ | grep SGD -A2 | cut -d">" -f2 | cut -d"
+<" -f1 | xargs | cut -d" " -f2'
+jual='curl -s http://bankmandiri.co.id/ | grep SGD -A2 | cut -d">" -f2 | cut -d"
+<" -f1 | xargs | cut -d" " -f3'
+echo 'date' "|" $jual "|" $beli
+
