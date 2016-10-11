@@ -1,0 +1,16 @@
+Id|Title|Author|Year|Comment
+DeC1605|Don Quixote|De Cervantes, Miguel|1605|The story of the gentle knight and his servant Sancho Panza has entranced readers for centuries.
+Bun1678|Pilgrim's Progress|Bunyan, John|1678|The one with the slough of Despond and Vanity Fair.
+Def1719|Robinson Crusoe|Defoe, Daniel|1719|The first English novel.
+Swi1726|Gulliver's Travels|Swift, Jonathan|1726|A wonderful satire that still works for all ages, despite the savagery of Swift's vision.
+Fie1749|Tom Jones|Fielding, Henry|1749|The adventures of a high-spirited orphan boy: an unbeatable plot and a lot of sex ending in a blissful marriage.
+Ric1748|Clarissa|Richardson, Samuel|1748|One of the longest novels in the English language, but unputdownable.
+Ste1759|Tristram Shandy|Sterne, Laurence|1759|One of the first bestsellers, dismissed by Dr Johnson as too fashionable for its own good.
+DeL1782|Dangerous Liaisons|De Laclos, Pierre Choderlos|1782|An epistolary novel and a handbook for seducers: foppish, French, and ferocious.
+Col1825|The Historie and Life of King James the Sext|Colville, John|1825|Being an account of the affairs of Scotland from the year 1566 to the year 1596; with a short continuation to the year 1617.
+Aus1815|Emma|Austen, Jane|1815|Near impossible choice between this and "Pride and Prejudice". But Emma never fails to fascinate and annoy.
+She1818|Frankenstein|Shelley, Mary|1818|Inspired by spending too much time with Shelley and Byron.
+Pea1818|Nightmare Abbey|Peacock, Thomas Love|1818|A classic miniature: a brilliant satire on the Romantic novel.
+DeB1842|The Black Sheep|De Balzac, Honore|1842|Two rivals fight for the love of a femme fatale. Wrongly overlooked.
+Dum1844|The Count of Monte Cristo|Dumas, Alexandre|1844|A revenge thriller also set in France after Bonaparte: a masterpiece of adventure writing.
+LeG1969|The Left Hand of Darkness|Le Guin, Ursula Kroeber|1969|How Le Guin handles a unisex race is one of the amazing parts of the book.
